@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mernsocial/static/css/main.817f5d48.css",
+    "main.js": "/mernsocial/static/js/main.c784ac2a.js",
+    "index.html": "/mernsocial/index.html",
+    "main.817f5d48.css.map": "/mernsocial/static/css/main.817f5d48.css.map",
+    "main.c784ac2a.js.map": "/mernsocial/static/js/main.c784ac2a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.817f5d48.css",
+    "static/js/main.c784ac2a.js"
+  ]
+}
